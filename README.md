@@ -1,0 +1,2 @@
+# TeluguReviews
+news website
